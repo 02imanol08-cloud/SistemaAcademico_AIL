@@ -1,2 +1,2 @@
 # SistemaAcademico_AIL
-Sistema Academico realizado en Oracle como SGBD y lenguaje Java
+Sistema Academico desarrollado en SQL Server 2022 y visual Studio c#
